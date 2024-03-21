@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: textSummarizer
+Version: 0.0.0
+Summary: A small python package for NLP app
+Home-page: https://github.com/arunpatwa/text-summarization
+Author: arunpatwa
+Author-email: arunspatwa.14@gmail.com
+License: UNKNOWN
+Project-URL: Bug Tracker, https://github.com/arunpatwa/text-summarization/issues
+Platform: UNKNOWN
+License-File: LICENSE
+
+# text_summarization
+
